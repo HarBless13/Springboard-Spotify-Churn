@@ -12,8 +12,7 @@ To identify patterns in user behavior that signal potential churn and help Spoti
 ---
 
 ## 🧾 Dataset Overview
-
-- **Size:** 9700 rows, 16 columns  
+ 
 - **Target Column:** `Churn` (Yes/No)  
 - **Features:** Age, Device, Country, Subscription Plan, Payment Method, Monthly Active Days, Songs Streamed, Failed Payments, etc.  
 - A derived binary target `Churn_Binary` (1 = churned, 0 = not churned) was used for modeling.
@@ -86,5 +85,5 @@ The model can be deployed as:
 
 ## 👩‍💻 Author
 
-**Bless (Diamond)**  
-Capstone project for Data Science Bootcamp  
+**Bless(Harmandeep)**  
+Capstone project for Springboard Data Science Bootcamp  
